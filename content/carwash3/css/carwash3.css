@@ -50,7 +50,7 @@
 .mcb_item_custom207 .mfn-divider-inner {
 	--mfn-divider-gap-top: 0px;
 	--mfn-divider-gap-bottom: 0px;
-	--mfn-divider-border-color: #3C60DB;
+	--mfn-divider-border-color: #32012F;
 	--mfn-divider-border-width: 1px;
 }
 .mcb_item_custom207 .mfn-divider-inner .divider-label {
@@ -140,6 +140,7 @@
 	width: 80px;
 	height: 80px;
 	background-color: #5575E7;
+	/* background-color: #feae23; */
 	border-radius: 100% 100% 100% 100%;
 	margin-bottom: 20px;
 }
@@ -207,14 +208,18 @@
 	margin-bottom: 10px;
 }
 .mcb_item_custom218 .icon-wrapper {
-	background-color: #1C3AA4;
+	/* background-color: #1C3AA4; */
+	background-color: #ef7f1a;
 	border-style: solid;
-	border-color: #2C4FC9;
+	border-color: #ef7f1a;
 	border-width: 1px 1px 1px 1px;
 	border-radius: 20px 20px 20px 20px;
 	width: 120px;
 	height: 120px;
 	margin-top: 30px;
+}
+.icon-wrapper{
+	background-color: #ef7f1a;
 }
 .mcb_item_custom218 .icon-wrapper img {
 	max-width: 60px;
@@ -244,9 +249,10 @@
 	margin-bottom: 10px;
 }
 .mcb_item_custom220 .icon-wrapper {
-	background-color: #1C3AA4;
+	/* background-color: #1C3AA4; */
+	background-color: #ef7f1a;
 	border-style: solid;
-	border-color: #2C4FC9;
+	border-color: #ef7f1a;
 	border-width: 1px 1px 1px 1px;
 	border-radius: 20px 20px 20px 20px;
 	width: 120px;
@@ -285,9 +291,9 @@
 	margin-bottom: 10px;
 }
 .mcb_item_custom222 .icon-wrapper {
-	background-color: #1C3AA4;
+	background-color: #ef7f1a;
 	border-style: solid;
-	border-color: #2C4FC9;
+	border-color: #ef7f1a;
 	border-width: 1px 1px 1px 1px;
 	border-radius: 20px 20px 20px 20px;
 	width: 120px;
@@ -322,9 +328,9 @@
 	margin-bottom: 10px;
 }
 .mcb_item_custom224 .icon-wrapper {
-	background-color: #1C3AA4;
+	background-color: #ef7f1a;
 	border-style: solid;
-	border-color: #2C4FC9;
+	border-color: #ef7f1a;
 	border-width: 1px 1px 1px 1px;
 	border-radius: 20px 20px 20px 20px;
 	width: 120px;
@@ -344,7 +350,7 @@
 	margin-bottom: 60px;
 }
 .mcb-section_custom39 {
-	background-image: linear-gradient(0deg, #F0F4F4 20%, #1C3AA4 20%);
+	background-image: linear-gradient(0deg, #F0F4F4 20%, #32012F 20%);
 }
 .mcb-section_custom39 .mcb-section_inner_custom39 {
 	align-items: stretch;
@@ -960,7 +966,7 @@
 .mcb_item_custom244 .mfn-divider-inner {
 	--mfn-divider-gap-top: 0px;
 	--mfn-divider-gap-bottom: 0px;
-	--mfn-divider-border-color: #3C60DB;
+	--mfn-divider-border-color: #32012F;
 	--mfn-divider-border-width: 1px;
 }
 .mcb_item_custom244 .mfn-divider-inner .divider-label {
@@ -974,7 +980,7 @@
 .mcb_item_custom245 .mfn-divider-inner {
 	--mfn-divider-gap-top: 0px;
 	--mfn-divider-gap-bottom: 0px;
-	--mfn-divider-border-color: #3C60DB;
+	--mfn-divider-border-color: #32012F;
 	--mfn-divider-border-width: 1px;
 }
 .mcb_item_custom245 .mfn-divider-inner .divider-label {
@@ -988,7 +994,7 @@
 .mcb_item_custom246 .mfn-divider-inner {
 	--mfn-divider-gap-top: 0px;
 	--mfn-divider-gap-bottom: 0px;
-	--mfn-divider-border-color: #3C60DB;
+	--mfn-divider-border-color: #32012F;
 	--mfn-divider-border-width: 1px;
 }
 .mcb_item_custom246 .mfn-divider-inner .divider-label {
@@ -1002,7 +1008,7 @@
 .mcb_item_custom247 .mfn-divider-inner {
 	--mfn-divider-gap-top: 0px;
 	--mfn-divider-gap-bottom: 0px;
-	--mfn-divider-border-color: #3C60DB;
+	--mfn-divider-border-color: #32012F;
 	--mfn-divider-border-width: 1px;
 }
 .mcb_item_custom247 .mfn-divider-inner .divider-label {
@@ -1046,12 +1052,12 @@
 	align-items: flex-start;
 }
 .mcb-section .mcb-wrap_custom118 .mcb-wrap_inner_custom118 {
-	box-shadow: 30px 30px 60px 0px #0E2989;
+	box-shadow: 30px 30px 60px 0px #32012F;
 	border-radius: 96px 96px 96px 96px;
 	border-style: solid;
 	padding-top: 40px;
 	padding-bottom: 20px;
-	background-image: linear-gradient(0deg, #1C3AA4 0%, #2F4EB8 78%);
+	background-image: linear-gradient(0deg, #32012F 0%, #5f0d59 78%);
 	margin-top: 40px;
 }
 .mcb_item_custom249 .image_frame {
@@ -1107,8 +1113,8 @@
 .mcb-section .mcb-wrap_custom121 .mcb-wrap_inner_custom121 {
 	margin-right: 15px;
 	margin-left: 15px;
-	background-color: #1C3AA4;
-	box-shadow: 30px 30px 60px 0 #0E2989;
+	background-color: #32012F;
+	box-shadow: 30px 30px 60px 0 #1e011b;
 	padding-top: 50px;
 	padding-right: 10%;
 	padding-bottom: 10px;
@@ -1116,7 +1122,7 @@
 	border-radius: 32px 32px 32px 32px;
 }
 .mcb-section .mcb-wrap_custom121 .mcb-wrap_inner_custom121:hover {
-	background-color: #2D4CB8;
+	background-color: #32012F;
 }
 .mcb_item_custom254 .counter .icon_wrapper img {
 	width: 24px;
@@ -1157,8 +1163,8 @@
 .mcb-section .mcb-wrap_custom122 .mcb-wrap_inner_custom122 {
 	margin-right: 15px;
 	margin-left: 15px;
-	background-color: #1C3AA4;
-	box-shadow: 30px 30px 60px 0 #0E2989;
+	background-color: #32012F;
+	box-shadow: 30px 30px 60px 0 #1e011c;
 	padding-top: 50px;
 	padding-right: 10%;
 	padding-bottom: 10px;
@@ -1166,7 +1172,7 @@
 	border-radius: 32px 32px 32px 32px;
 }
 .mcb-section .mcb-wrap_custom122 .mcb-wrap_inner_custom122:hover {
-	background-color: #2D4CB8;
+	background-color: #32012F;
 }
 .mcb_item_custom255 .counter .icon_wrapper img {
 	width: 24px;
@@ -1207,8 +1213,8 @@
 .mcb-section .mcb-wrap_custom123 .mcb-wrap_inner_custom123 {
 	margin-right: 15px;
 	margin-left: 15px;
-	background-color: #1C3AA4;
-	box-shadow: 30px 30px 60px 0 #0E2989;
+	background-color: #32012F;
+	box-shadow: 30px 30px 60px 0 #1e011c;
 	padding-top: 50px;
 	padding-right: 10%;
 	padding-bottom: 10px;
@@ -1216,7 +1222,7 @@
 	border-radius: 32px 32px 32px 32px;
 }
 .mcb-section .mcb-wrap_custom123 .mcb-wrap_inner_custom123:hover {
-	background-color: #2D4CB8;
+	background-color: #32012F;
 }
 .mcb_item_custom256 .counter .icon_wrapper img {
 	width: 24px;
@@ -1257,8 +1263,8 @@
 .mcb-section .mcb-wrap_custom124 .mcb-wrap_inner_custom124 {
 	margin-right: 15px;
 	margin-left: 15px;
-	background-color: #1C3AA4;
-	box-shadow: 30px 30px 60px 0 #0E2989;
+	background-color: #32012F;
+	box-shadow: 30px 30px 60px 0 #1e011c;
 	padding-top: 50px;
 	padding-right: 10%;
 	padding-bottom: 10px;
@@ -1266,7 +1272,7 @@
 	border-radius: 32px 32px 32px 32px;
 }
 .mcb-section .mcb-wrap_custom124 .mcb-wrap_inner_custom124:hover {
-	background-color: #2D4CB8;
+	background-color: #32012F;
 }
 .mcb_item_custom257 .counter .icon_wrapper img {
 	width: 24px;
@@ -2710,7 +2716,7 @@
 .mcb-section_custom35 {
 	padding-bottom: 30px;
 	padding-left: 8%;
-	background-image: url(../images/carwash3-section-bg3.svg);
+	/* background-image: url(../images/carwash3-section-bg3.svg); */
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-color: #143199;
@@ -2781,7 +2787,7 @@
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-	background-color: #1C3AA4;
+	background-color: #41043c;
 	border-radius: 32px 0 0 32px;
 	padding-top: 180px;
 	padding-right: 15%;
@@ -4783,30 +4789,30 @@ body, ul.timeline_items, .icon_box a .desc, .icon_box a:hover .desc, .feature_li
 	fill: #A6B7F5
 }
 .themecolor, .opening_hours .opening_hours_wrapper li span, .fancy_heading_icon .icon_top, .fancy_heading_arrows .icon-right-dir, .fancy_heading_arrows .icon-left-dir, .fancy_heading_line .title, .button-love a.mfn-love, .format-link .post-title .icon-link, .pager-single>span, .pager-single a:hover, .widget_meta ul, .widget_pages ul, .widget_rss ul, .widget_mfn_recent_comments ul li:after, .widget_archive ul, .widget_recent_comments ul li:after, .widget_nav_menu ul, .woocommerce ul.products li.product .price, .shop_slider .shop_slider_ul li .item_wrapper .price, .woocommerce-page ul.products li.product .price, .widget_price_filter .price_label .from, .widget_price_filter .price_label .to, .woocommerce ul.product_list_widget li .quantity .amount, .woocommerce .product div.entry-summary .price, .woocommerce .product .woocommerce-variation-price .price, .woocommerce .star-rating span, #Error_404 .error_pic i, .style-simple #Filters .filters_wrapper ul li a:hover, .style-simple #Filters .filters_wrapper ul li.current-cat a, .style-simple .quick_fact .title, .mfn-cart-holder .mfn-ch-content .mfn-ch-product .woocommerce-Price-amount, .woocommerce .comment-form-rating p.stars a:before, .wishlist .wishlist-row .price, .search-results .search-item .post-product-price {
-	color: #77ffc3
+	color: #ef7f1a
 }
 .mfn-wish-button.loved:not(.link) .path {
-	fill: #77ffc3;
-	stroke: #77ffc3
+	fill: #ef7f1a;
+	stroke: #ef7f1a
 }
 .themebg, #comments .commentlist>li .reply a.comment-reply-link, #Filters .filters_wrapper ul li a:hover, #Filters .filters_wrapper ul li.current-cat a, .fixed-nav .arrow, .offer_thumb .slider_pagination a:before, .offer_thumb .slider_pagination a.selected:after, .pager .pages a:hover, .pager .pages a.active, .pager .pages span.page-numbers.current, .pager-single span:after, .portfolio_group.exposure .portfolio-item .desc-inner .line, .Recent_posts ul li .desc:after, .Recent_posts ul li .photo .c, .slider_pagination a.selected, .slider_pagination .slick-active a, .slider_pagination a.selected:after, .slider_pagination .slick-active a:after, .testimonials_slider .slider_images, .testimonials_slider .slider_images a:after, .testimonials_slider .slider_images:before, #Top_bar .header-cart-count, #Top_bar .header-wishlist-count, .mfn-footer-stickymenu ul li a .header-wishlist-count, .mfn-footer-stickymenu ul li a .header-cart-count, .widget_categories ul, .widget_mfn_menu ul li a:hover, .widget_mfn_menu ul li.current-menu-item:not(.current-menu-ancestor)>a, .widget_mfn_menu ul li.current_page_item:not(.current_page_ancestor)>a, .widget_product_categories ul, .widget_recent_entries ul li:after, .woocommerce-account table.my_account_orders .order-number a, .woocommerce-MyAccount-navigation ul li.is-active a, .style-simple .accordion .question:after, .style-simple .faq .question:after, .style-simple .icon_box .desc_wrapper .title:before, .style-simple #Filters .filters_wrapper ul li a:after, .style-simple .trailer_box:hover .desc, .tp-bullets.simplebullets.round .bullet.selected, .tp-bullets.simplebullets.round .bullet.selected:after, .tparrows.default, .tp-bullets.tp-thumbs .bullet.selected:after {
-	background-color: #77ffc3
+	background-color: #ef7f1a
 }
 .Latest_news ul li .photo, .Recent_posts.blog_news ul li .photo, .style-simple .opening_hours .opening_hours_wrapper li label, .style-simple .timeline_items li:hover h3, .style-simple .timeline_items li:nth-child(even):hover h3, .style-simple .timeline_items li:hover .desc, .style-simple .timeline_items li:nth-child(even):hover, .style-simple .offer_thumb .slider_pagination a.selected {
-	border-color: #77ffc3
+	border-color: #ef7f1a
 }
 a {
 	color: #a6b7f5
 }
 a:hover {
-	color: #77ffc3
+	color: #ef7f1a
 }
 *::-moz-selection {
-	background-color: #77ffc3;
+	background-color: #ef7f1a;
 	color: black
 }
 *::selection {
-	background-color: #77ffc3;
+	background-color: #ef7f1a;
 	color: black
 }
 .blockquote p.author span, .counter .desc_wrapper .title, .article_box .desc_wrapper p, .team .desc_wrapper p.subtitle, .pricing-box .plan-header p.subtitle, .pricing-box .plan-header .price sup.period, .chart_box p, .fancy_heading .inside, .fancy_heading_line .slogan, .post-meta, .post-meta a, .post-footer, .post-footer a span.label, .pager .pages a, .button-love a .label, .pager-single a, #comments .commentlist>li .comment-author .says, .fixed-nav .desc .date, .filters_buttons li.label, .Recent_posts ul li a .desc .date, .widget_recent_entries ul li .post-date, .tp_recent_tweets .twitter_time, .widget_price_filter .price_label, .shop-filters .woocommerce-result-count, .woocommerce ul.product_list_widget li .quantity, .widget_shopping_cart ul.product_list_widget li dl, .product_meta .posted_in, .woocommerce .shop_table .product-name .variation>dd, .shipping-calculator-button:after, .shop_slider .shop_slider_ul li .item_wrapper .price del, .woocommerce .product .entry-summary .woocommerce-product-rating .woocommerce-review-link, .woocommerce .product. .entry-summary .product_meta .tagged_as, .woocommerce .tagged_as, .wishlist .sku_wrapper, .woocommerce .column_product_rating .woocommerce-review-link, .woocommerce #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__verified, .woocommerce #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__dash, .woocommerce #reviews #comments ol.commentlist li .comment-text p.meta .woocommerce-review__published-date, .testimonials_slider .testimonials_slider_ul li .author span, .testimonials_slider .testimonials_slider_ul li .author span a, .Latest_news ul li .desc_footer, .share-simple-wrapper .icons a {
@@ -10230,6 +10236,8 @@ body.mobile-side-slide {
 }
 .button-custom .button_theme, .button-custom button, .button-custom input[type="button"], .button-custom input[type="reset"], .button-custom input[type="submit"], .button-custom .woocommerce #respond input#submit, .button-custom .woocommerce a.button:not(.default), .button-custom .woocommerce button.button, .button-custom .woocommerce input.button {
 	color: #203066;
-	background-color: #77ffc3;
-	border-color: #77ffc3;
+	background-color: #ffffff;
+	border-color: #32012F;
 }
+
+/* form css */
