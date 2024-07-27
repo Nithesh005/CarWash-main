@@ -5,7 +5,8 @@
 .mcb_item_custom204 .mfn-divider-inner {
 	--mfn-divider-gap-top: 0px;
 	--mfn-divider-gap-bottom: 0px;
-	--mfn-divider-border-color: #3C60DB;
+	/* --mfn-divider-border-color: #3C60DB; */
+	--mfn-divider-border-color: #ffb92d;
 	--mfn-divider-border-width: 1px;
 }
 .mcb_item_custom204 .mfn-divider-inner .divider-label {
@@ -19,7 +20,8 @@
 .mcb_item_custom205 .mfn-divider-inner {
 	--mfn-divider-gap-top: 0px;
 	--mfn-divider-gap-bottom: 0px;
-	--mfn-divider-border-color: #3C60DB;
+	/* --mfn-divider-border-color: #3C60DB; */
+	--mfn-divider-border-color: #ffb92d;
 	--mfn-divider-border-width: 1px;
 }
 .mcb_item_custom205 .mfn-divider-inner .divider-label {
@@ -33,7 +35,8 @@
 .mcb_item_custom206 .mfn-divider-inner {
 	--mfn-divider-gap-top: 0px;
 	--mfn-divider-gap-bottom: 0px;
-	--mfn-divider-border-color: #3C60DB;
+	/* --mfn-divider-border-color: #3C60DB; */
+	--mfn-divider-border-color: #ffb92d;
 	--mfn-divider-border-width: 1px;
 }
 .mcb_item_custom206 .mfn-divider-inner .divider-label {
